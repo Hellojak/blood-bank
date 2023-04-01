@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(219, 236, 171);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main_blood{
+    background-color: rgba(241, 88, 88, 0.753);
+    width: 70%;
+    margin: 50px;
+   text-align: center;
+   color:white;
+   
+    
+}
+.page_body{
+    align-items:center;
+justify-content:center;
+display:flex;
+border:2px solid white;
+}

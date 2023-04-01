@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(250, 200, 200);
+    
+}
+.hospitalform{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(168, 6, 6);
+    color: white;
+    
+}
+.h_form{
+    border: 1px solid white;
+    padding: 20px;
+    background-color: rgba(230, 75, 165, 0.301);
+    border-radius: 10px;
+}
+#H_submit{
+
+    border: 2px solid rgb(7, 133, 190);
+    border-radius: 10px;
+    padding: 5px;
+   
+    width: 100%;
+cursor: pointer;
+}
+.h_form tr{
+    height: 50px;
+    
+}
+#home-btn{
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px;
+   
+    width: 100%;
+cursor: pointer;
+}
